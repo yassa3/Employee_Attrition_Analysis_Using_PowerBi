@@ -22,11 +22,6 @@
 3. **Data Model**: Build a dimensional model to integrate the data sources and facilitate the reporting phase.
 4. **Visualization and Dashboarding**: Create an interactive dashboard using Power BI to communicate insights effectively.
 
-## **Deliverables**
-
-1. **Power BI Dashboard**: A .pbix file showcasing the analysis.
-2. **Report**: A .docs file (maximum 2 pages) summarizing key findings, insights, and recommendations.
-
 
 ## **How to Use**
 
