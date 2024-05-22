@@ -1,9 +1,5 @@
 # **Employee Attrition Analysis using Power BI: A Case Study**
 
-## **Project Overview**
-
-ABC Corporation, a multinational company, is experiencing challenges with employee attrition. To address this issue, a comprehensive analysis using Power BI has been implemented to understand the factors contributing to attrition and develop strategies for retention and talent management.
-
 ## **Project Objectives**
 
 1. **Identify Key Drivers of Attrition**: Determine the primary factors influencing employee attrition within the organization.
@@ -59,11 +55,3 @@ ABC Corporation, a multinational company, is experiencing challenges with employ
     - Identify high-risk groups based on departments, job roles, gender, education levels, etc.
 - **Recommendations**:
     - Provide actionable strategies for improving employee retention and talent management based on the insights gained from the analysis.
-
-## **Contributing**
-
-Feel free to submit issues or pull requests if you have suggestions or improvements.
-
-## **License**
-
-This project is licensed under the MIT License. See the **`LICENSE`** file for details.
