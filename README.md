@@ -29,7 +29,7 @@
     
     ```bash
     bashCopy code
-    git clone https://github.com/yourusername/Employee-Attrition-Analysis.git
+    git clone https://github.com/yassa3/Employee_Attrition_Analysis_Using_PowerBi.git
     cd Employee-Attrition-Analysis
     
     ```
